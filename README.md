@@ -8,12 +8,12 @@ dans cette page:
 
 
 le jeu est dans sa version final des boutons sont sur la droite:
-* new map  ***  création d'un monde aléatoire***,
-* =>  ***  calcule d'une géneration***,
-* <=  ***  retour en arriére d'une génération***,
-* RAZ  ***  efface la carte du monde***,
-* Auto  ***  passe de génération en génération automatiquement***,
-* Stop  ***  arréte la marche automatique***.
+* new map  ***création d'un monde aléatoire***,
+* =>  ***calcule d'une géneration***,
+* <=  ***retour en arriére d'une génération***,
+* RAZ  ***efface la carte du monde***,
+* Auto  ***passe de génération en génération automatiquement***,
+* Stop  ***arréte la marche automatique***.
 
 Si on clic sur la carte du monde sur une cellule elle meure si la place est vide une cellule née
 
