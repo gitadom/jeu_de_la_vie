@@ -1,4 +1,4 @@
-# jdv
+# jeu de la vie
 ## Le jeu de la vie
 ```
 Le jeu de la vie est expliqué dans Wikipédia
